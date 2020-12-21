@@ -1,0 +1,159 @@
+/* Nav */
+.nav-item {
+    margin-right: 30px;
+}
+
+.navbar-brand {
+    color: #ffffff !important;
+}
+
+.nav-item {
+    color: #ffffff !important;
+}
+
+.akun {
+    border-bottom: solid 2px #4b92 a4;
+}
+
+.itema {
+    color: black !important;
+}
+
+.lingkaran1 {
+    width: 100px;
+    height: 100px;
+    background: #fff;
+    border: solid 2px black;
+    border-radius: 100%;
+}
+
+.jumbotron {
+    background-image: url(../img/bg-header.jpg);
+    background-size: cover;
+    position: relative;
+}
+
+.jumbotron .container {
+    z-index: 1;
+    position: relative;
+}
+
+.jumbotron::after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.5));
+    position: absolute;
+    bottom: 0;
+}
+.tombol {
+    border-radius: 30px !important;
+    text-align: center;
+    border: none;
+}
+
+.sidebar-nav #sidebarnav .sidebar-item.selected>.sidebar-link {
+    border-radius: 0 60px 60px 0;
+    color: #fff !important;
+    background: linear-gradient(to right,
+            #9b20cc,
+            #9b20cc,
+            #9b20cc,
+            #9b20cc,
+            #9b20cc,
+            #9b20cc);
+    box-shadow: 0 7px 12px 0 rgba(95, 118, 232, 0.21);
+    opacity: 1;
+}
+
+.konten {
+    margin-top: 150px;
+    margin-bottom: 90px;
+}
+
+.bg-merahmuda {
+    color: #e74c3c !important;
+    background-color: #f58176 !important;
+}
+
+.bg-coklat {
+    color: #cbc6c6 !important;
+    background-color: #cbc6c6 !important;
+}
+
+/* .info-panel {
+} */
+.ili {
+    margin-right: 5px;
+}
+
+.bg-alan {
+    background-color: #4b92a4 !important;
+    color: #ffffff !important;
+}
+
+.text-purple {
+    color: #9b59b6 !important;
+}
+
+.bg-purpel {
+    background-color: #9b59b6 !important;
+    color: #ffffff !important;
+}
+
+.table-bordered {
+    border: solid 1px black !important;
+}
+
+.bb {
+    min-height: 500px;
+    background: url(../img/man-standing-on-stage-1049746.png);
+    color: #ffffff !important;
+    background-size: cover;
+}
+
+.gambar-kanan {
+    float: right;
+    padding: 25px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.gambar-kiri {
+    float: left;
+    padding: 2px;
+}
+
+.jejer {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.img-icon {
+    max-height: 145px;
+    max-width: 145px;
+}
+
+.sidebar-link {
+    color: #ffffff !important;
+}
+
+.left-sidebar {
+    background-color: #00acee !important;
+    height: 100%;
+    color: #fff;
+}
+
+.navbar-header {
+    background-color: #00acee !important;
+}
+
+.logo-text {
+    color: #ffffff !important;
+}
+
+.tbml {
+    width: 200px;
+    border-radius: 30px !important;
+}
